@@ -5,5 +5,4 @@
 </p>
 <br/><br/>
 **Bucker** is an expense manager app built in Flutter and uses Hive i.e fast local database.
-<br/><br/>
 Note: **Bucker** gives meaningful demonstration of **Flutter Hive Database**.
